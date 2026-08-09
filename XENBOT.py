@@ -24,10 +24,10 @@ from PyQt5.QtGui import QPainter, QPen, QColor
 # ===============================================================
 
 GEMINI_API_KEYS = [
-    "AIzaSyAUXS_kTavc5IsgqeuGAoEtqUfNIWpp8A0",
-    "AIzaSyBqVU9EilXs9cU9YbtKretEYakfaS3rVR0",
-    "AIzaSyCOgR3mWJsFD5_Le_1BLFiXNeI6b-3hVB0",
-    "AIzaSyAsXMWKiuKlr6TCv4l0EAZMRVoa1Y3cddI",
+    "API-Key1",
+    "API-Key2",
+    "API-Key3",
+    "API-Key4",
 ]
 
 MODEL_NAME = "gemini-2.5-flash"  # Vision + text model

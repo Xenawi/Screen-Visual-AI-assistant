@@ -1,4 +1,4 @@
-# SEB Protector
+# Screen AI Assistant
 
 A Windows desktop tool that uses a Gemini Vision+Text model to analyze screenshots and user prompts.
 
